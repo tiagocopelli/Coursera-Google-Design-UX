@@ -8,5 +8,4 @@ Neste curso foi criado 3 casos de estudos completo
 deste o Wireframe até o protótipo final.
 Usando o Figma e o AdobeXD.
 
-![Logo do R](https://github.com/tiagocopelli/CursoGoogle-UX-UI/tree/main/img/portfolio/foto.png)
-
+![Logo do R](img/portfolio/foto.PNG)
