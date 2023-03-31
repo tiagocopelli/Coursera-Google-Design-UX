@@ -1,5 +1,6 @@
 
-# Repositório criado para o Curso Profissional do Google de Design UX/UI 
+# Repositório criado para o Curso Coursera - Google de Design UX/UI
+# Certificado Profissional de Design de UX do Google
 # Realizado atraves da plataforma Coursera.
 
 <https://tiagocopelli.github.io/CursoGoogle-UX-UI/>
