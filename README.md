@@ -12,5 +12,5 @@ Usando o Figma e o AdobeXD.
 
 
 
-![](img/portfolio/certificado.jpg)
+![](img/portfolio/Certificado.jpg)
 
