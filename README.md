@@ -4,7 +4,7 @@
 # Certificado Profissional de Design de UX do Google
 
 
-<https://tiagocopelli.github.io/Coursera-Google-Design-UX/ targat"_blank">
+<https://tiagocopelli.github.io/Coursera-Google-Design-UX/ target"_blank">
 
 Neste curso foi criado 3 casos de estudos completo 
 deste o Wireframe até o protótipo final.
