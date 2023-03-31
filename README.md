@@ -8,4 +8,9 @@ Neste curso foi criado 3 casos de estudos completo
 deste o Wireframe até o protótipo final.
 Usando o Figma e o AdobeXD.
 
-![Logo do R](img/portfolio/foto.PNG)
+![](img/portfolio/foto.PNG)
+
+
+
+![](img/certificado.jpg)
+
